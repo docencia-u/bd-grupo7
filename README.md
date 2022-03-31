@@ -14,21 +14,21 @@
     <tbody>
         <tr>
             <td>MIGUEL</td>
-            <td>ABARCA&nbsp;PASTÉN</td>
+            <td>ABARCA PASTÉN</td>
             <td>m.abarcapastn@uandresbello.edu</td>
             <td>7</td>
             <td>3</td>
         </tr>
         <tr>
             <td>SIMÓN</td>
-            <td>MARTÍNEZ&nbsp;CASAFONT</td>
+            <td>MARTÍNEZ CASAFONT</td>
             <td>s.martnezcasafont@uandresbello.edu</td>
             <td>7</td>
             <td>3</td>
         </tr>
         <tr>
             <td>CRISTÓBAL</td>
-            <td>RUBIO&nbsp;TEARE</td>
+            <td>RUBIO TEARE</td>
             <td>c.rubioteare@uandresbello.edu</td>
             <td>7</td>
             <td>3</td>
